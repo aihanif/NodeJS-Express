@@ -3,17 +3,18 @@
 
 📝 Todo Task App
 A simple Todo List application built with Node.js, Express, and Bootstrap. This app demonstrates a basic RESTful API with a modern web interface for managing daily tasks.
-🚀 Features
-•	✅ Add, view, update, and delete tasks (CRUD operations)
-•	🌐 RESTful JSON API
-•	💻 Responsive web interface with Bootstrap
-•	⚡ Real-time updates using JavaScript fetch API
-•	💾 In-memory data (no database required)
-📦 Technologies Used
-•	Node.js
-•	Express
-•	Bootstrap 5
-•	HTML, CSS, and JavaScript
+  
+🚀 Features  
+•	✅ Add, view, update, and delete tasks (CRUD operations)  
+•	🌐 RESTful JSON API  
+•	💻 Responsive web interface with Bootstrap  
+•	⚡ Real-time updates using JavaScript fetch API  
+•	💾 In-memory data (no database required)    
+📦 Technologies Used  
+•	Node.js  
+•	Express  
+•	Bootstrap 5  
+•	HTML, CSS, and JavaScript    
 ________________________________________
 🛠️ Getting Started
 1. Clone the Repository
