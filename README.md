@@ -56,6 +56,13 @@ ________________________________________
 •	View a list of all current tasks  
 •	Edit or delete tasks using action buttons  
 •	No page reloads — uses Fetch API for real-time interaction  
+
+
+ <img width="1733" height="567" alt="image" src="https://github.com/user-attachments/assets/6eaf501e-4b8d-4969-82b8-645a37676f65" />
+ 
+
+
+
 ________________________________________  
 ⚠️ Notes  
 •	Data is stored in-memory — restarting the server will reset all tasks.  
