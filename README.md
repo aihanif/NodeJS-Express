@@ -10,7 +10,8 @@ A simple Todo List application built with Node.js, Express, and Bootstrap. This 
 •	💻 Responsive web interface with Bootstrap  
 •	⚡ Real-time updates using JavaScript fetch API  
 •	💾 In-memory data (no database required)    
-  📦 Technologies Used  
+  
+📦 Technologies Used  
 •	Node.js  
 •	Express  
 •	Bootstrap 5  
@@ -33,23 +34,21 @@ GET	/tasks	Get all tasks
 POST	/tasks	Add a new task
 PUT	/tasks/:id	Update task by ID
 DELETE	/tasks/:id	Delete task by ID  
+  
 🧪 Example API Requests
 Add Task  
-http  
-  
+http    
 POST /tasks  
-Content-Type: application/json
-  
+Content-Type: application/json  
 {  
   "title": "Buy groceries"  
 }  
-Update Task  
   
+Update Task    
 PUT /tasks/1  
 Content-Type: application/json  
-  
-{
-  "title": "Buy groceries and milk"  
+{  
+  "title": "Buy groceries and milk"   
 }  
 ________________________________________    
 💻 Web Interface  
