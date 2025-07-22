@@ -21,11 +21,10 @@ ________________________________________
 git clone https://github.com/your-username/todo-task-app.git  
 cd todo-task-app  
   2. Install Dependencies  
-npm install  
+  npm install  
   3. Run the Server  
-  
-node index.js  
-4. Open in Browser  
+  node index.js  
+  4. Open in Browser  
 Go to: http://localhost:3000/  
   ________________________________________  
 📡 API Endpoints  
