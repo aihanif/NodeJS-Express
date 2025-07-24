@@ -19,7 +19,7 @@ A simple Todo List application built with Node.js, Express, and Bootstrap. This 
 ________________________________________
   🛠️ Getting Started
 1. Clone the Repository  
-git clone https://github.com/your-username/todo-task-app.git  
+git clone https://github.com/aihanif/NodeJS-Express.git
 cd todo-task-app  
   2. Initiate npm  
    npm init -y  
